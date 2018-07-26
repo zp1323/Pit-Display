@@ -1,0 +1,430 @@
+[14-Mar-2018 04:51:25 UTC] PHP Fatal error:  Call to undefined function Providers\getDirContents() in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 5
+[14-Mar-2018 04:52:10 UTC] PHP Fatal error:  Class 'Providers\SplFileInfo' not found in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 12
+[14-Mar-2018 04:52:40 UTC] PHP Fatal error:  Class 'Providers\NotificationProvider' not found in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 5
+[14-Mar-2018 05:14:05 UTC] PHP Warning:  require_once(../Providers/BAProvider.php): failed to open stream: No such file or directory in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 2
+[14-Mar-2018 05:14:05 UTC] PHP Fatal error:  require_once(): Failed opening required '../Providers/BAProvider.php' (include_path='.:/opt/php55/lib/php') in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 2
+[14-Mar-2018 05:14:27 UTC] PHP Fatal error:  Class 'NotificationProvider' not found in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 5
+[14-Mar-2018 05:14:39 UTC] PHP Fatal error:  Class 'NotificationProvider' not found in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 5
+[14-Mar-2018 05:15:37 UTC] PHP Fatal error:  Class 'Providers\DBConnection' not found in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 13
+[14-Mar-2018 21:29:41 America/Los_Angeles] PHP Fatal error:  Class 'Providers\NotificationProvider' not found in /home2/frc1671/public_html/pit/controller/NotificationsController.php on line 7
+[14-Mar-2018 21:53:45 America/Los_Angeles] PHP Fatal error:  Class 'Providers\PDO' not found in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 39
+[14-Mar-2018 21:54:48 America/Los_Angeles] PHP Fatal error:  Class 'Providers\PDO' not found in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 39
+[14-Mar-2018 21:55:40 America/Los_Angeles] PHP Fatal error:  Class 'Providers\PDO' not found in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 39
+[15-Mar-2018 05:06:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:31 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:32 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:41 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:42 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:43 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:46 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:51 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:52 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:52 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:54 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:56 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:06:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:02 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:09 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:11 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:11 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:13 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:15 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:16 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:17 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:19 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:20 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:21 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:23 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:24 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:25 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:26 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:27 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:29 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:31 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:32 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:41 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:42 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:43 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:46 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:49 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:51 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:52 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:53 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:54 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:56 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:07:59 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:02 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:09 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:11 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:13 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:15 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:16 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:17 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:19 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:20 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:21 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:23 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:24 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:25 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:26 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:27 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:29 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:31 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:32 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:41 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:42 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:43 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:45 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:46 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:49 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:51 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:52 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:53 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:54 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:56 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:08:59 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:02 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:09 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:11 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:13 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:15 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:16 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:17 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:18 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:19 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:20 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:21 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:22 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:23 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:24 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:25 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:26 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:27 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:28 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:29 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:30 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:31 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:32 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:33 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:34 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:35 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:36 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:37 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:38 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:39 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:40 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:41 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:42 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:42 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:44 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:46 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:47 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:48 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:49 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:50 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:51 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:52 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:53 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:53 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:55 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:56 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:57 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:09:58 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:00 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:01 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:02 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:03 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:04 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:05 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:06 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:07 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:08 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:09 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:10 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:12 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:13 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:14 UTC] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:15 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:16 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:17 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:17 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:17 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:18 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:19 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:20 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:21 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:22 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:23 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:24 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:25 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:26 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:27 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:28 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:28 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:29 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:30 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:31 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:32 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:33 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:34 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:35 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:36 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:37 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:37 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:38 UTC] PHP Parse error:  syntax error, unexpected '$return' (T_VARIABLE) in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74
+[15-Mar-2018 05:10:47 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 91
+[15-Mar-2018 05:10:57 UTC] PHP Parse error:  syntax error, unexpected ';' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 91
+[14-Mar-2018 22:28:01 America/Los_Angeles] PHP Warning:  Missing argument 4 for Providers\NotificationProvider::slackResponse(), called in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74 and defined in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 86
+[14-Mar-2018 22:29:38 America/Los_Angeles] PHP Warning:  Missing argument 4 for Providers\NotificationProvider::slackResponse(), called in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 74 and defined in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 86
+[15-Mar-2018 05:42:34 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:35 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:35 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:36 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:36 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:37 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:37 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:38 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:38 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:38 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:39 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:39 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:40 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:40 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:41 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:41 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:42 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:42 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:43 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:43 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:44 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:44 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:45 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:45 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:46 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:46 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:47 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:48 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:48 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:49 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:50 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[15-Mar-2018 05:42:53 UTC] PHP Parse error:  syntax error, unexpected '"color"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 93
+[14-Mar-2018 22:50:47 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php:38
+Stack trace:
+#0 /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php(38): PDOStatement->execute()
+#1 /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php(47): Providers\NotificationProvider->get('31')
+#2 /home2/frc1671/public_html/pit/controller/NotificationsController.php(12): Providers\NotificationProvider->ack('31')
+#3 {main}
+  thrown in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[14-Mar-2018 22:50:50 America/Los_Angeles] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: no parameters were bound' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php:38
+Stack trace:
+#0 /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php(38): PDOStatement->execute()
+#1 /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php(47): Providers\NotificationProvider->get('31')
+#2 /home2/frc1671/public_html/pit/controller/NotificationsController.php(12): Providers\NotificationProvider->ack('31')
+#3 {main}
+  thrown in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:53 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:53 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:54 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:54 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:55 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:55 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:56 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:56 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:57 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:57 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:58 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:58 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:58 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:59 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:51:59 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:00 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:00 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:01 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:01 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:01 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:02 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:02 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:03 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:03 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:04 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:04 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:05 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:05 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:06 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:06 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:07 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:07 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:08 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:08 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:08 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:09 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:09 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:10 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:10 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:11 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:11 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:12 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:12 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:13 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:13 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:14 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:14 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:15 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:15 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:16 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:16 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:17 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:17 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:18 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:18 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:18 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:19 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:19 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:20 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:20 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:21 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:21 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:22 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:23 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:24 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:24 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[15-Mar-2018 05:52:25 UTC] PHP Parse error:  syntax error, unexpected ']' in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 38
+[23-Mar-2018 11:57:25 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[24-Mar-2018 15:57:18 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[24-Mar-2018 15:57:18 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[24-Mar-2018 15:57:19 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[06-Apr-2018 14:01:46 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[06-Apr-2018 14:01:46 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[06-Apr-2018 14:01:47 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[06-Apr-2018 14:01:47 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:28 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:32 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:32 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:33 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:33 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:33 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:33 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:34 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:34 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:34 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:34 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:34 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:35 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:35 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:35 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:35 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89
+[07-Apr-2018 08:57:35 America/Los_Angeles] PHP Warning:  Invalid argument supplied for foreach() in /home2/frc1671/public_html/pit/app/Providers/NotificationProvider.php on line 89

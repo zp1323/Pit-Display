@@ -1,0 +1,5 @@
+[12-Mar-2018 17:54:52 UTC] PHP Parse error:  syntax error, unexpected ''2018azfl"));' (T_ENCAPSED_AND_WHITESPACE) in /home2/frc1671/public_html/pit/app/Providers/BAProvider.php on line 118
+[12-Mar-2018 17:55:17 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement in the script in /home2/frc1671/public_html/pit/app/Providers/BAProvider.php on line 6
+[12-Mar-2018 10:56:37 America/Los_Angeles] PHP Fatal error:  Call to a member function getRankings2() on a non-object in /home2/frc1671/public_html/pit/app/Providers/BAProvider.php on line 127
+[12-Mar-2018 10:57:02 America/Los_Angeles] PHP Fatal error:  Call to a member function getRankings2() on a non-object in /home2/frc1671/public_html/pit/app/Providers/BAProvider.php on line 127
+[12-Mar-2018 10:57:08 America/Los_Angeles] PHP Fatal error:  Call to a member function getRankings2() on a non-object in /home2/frc1671/public_html/pit/app/Providers/BAProvider.php on line 127
